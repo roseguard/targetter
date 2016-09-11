@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/img/gui">
+        <file>acceptOff.png</file>
+        <file>acceptOn.png</file>
+        <file>background.jpg</file>
+        <file>cancelOff.png</file>
+        <file>cancelOn.png</file>
+        <file>defaultOff.png</file>
+        <file>defaultOn.png</file>
+        <file>exitOff.png</file>
+        <file>exitOn.png</file>
+        <file>multiplayerOff.png</file>
+        <file>multiplayerOn.png</file>
+        <file>optionOff.png</file>
+        <file>optionOn.png</file>
+        <file>startOff.png</file>
+        <file>startOn.png</file>
+        <file>hostOff.png</file>
+        <file>hostOn.png</file>
+        <file>backOff.png</file>
+        <file>backOn.png</file>
+        <file>connectToOff.png</file>
+        <file>connectToOn.png</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>main.mp3</file>
+        <file>click.wav</file>
+    </qresource>
+    <qresource prefix="/img/game/fields">
+        <file>fieldSteel.png</file>
+    </qresource>
+    <qresource prefix="/img/game/actors">
+        <file>canadian.png</file>
+        <file>hipster.png</file>
+    </qresource>
+    <qresource prefix="/img/game/effects">
+        <file>explosion.png</file>
+        <file>targeting.png</file>
+    </qresource>
+</RCC>

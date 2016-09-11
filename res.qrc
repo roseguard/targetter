@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img/gui">
+        <file>back.jpg</file>
+        <file>multiplayer.png</file>
+    </qresource>
+    <qresource prefix="/sounds/gui">
+        <file>main.mp3</file>
+    </qresource>
+</RCC>

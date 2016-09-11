@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/buttons">
+        <file>multiplayer.png</file>
+        <file>back.jpg</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>main.mp3</file>
+    </qresource>
+</RCC>
